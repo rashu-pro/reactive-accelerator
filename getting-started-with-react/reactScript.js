@@ -34,7 +34,7 @@ function Product() {
             onClick={addToCart}
             id="button"
             href="#"
-            className="text-white focus:ring-4 font-medium rounded-lg text-sm px-5 py-2.5 text-center bg-[#087ea4] hover:bg-[#087ea4]/[.8] focus:ring-[#087ea4]/[.5]"
+            className="text-white focus:ring-4 font-medium rounded-lg text-sm px-5 py-2.5 text-center bg-[#087ea4] hover:bg-[#087ea4]/80 focus:ring-[#087ea4]/50"
           >
             Add to cart ({quantity})
           </a>
